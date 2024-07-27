@@ -1,4 +1,4 @@
-# I think this one times out. Unverified answer, as I couldn't run tests on this.
+# Unverified answer
 
 n, m = map(int, input().split())
 A = input().strip()
